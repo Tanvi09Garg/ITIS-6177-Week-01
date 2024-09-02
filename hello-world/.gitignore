@@ -1,0 +1,7 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+
+# Editor config files
+.DS_Store
+*.swp
